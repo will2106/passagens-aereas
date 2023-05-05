@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\passagens_aereas\bin\Debug\net7.0\passagens_aereas.exe
+C:\Users\38985141880\Desktop\passagens_aereas\bin\Debug\net7.0\passagens_aereas.deps.json
+C:\Users\38985141880\Desktop\passagens_aereas\bin\Debug\net7.0\passagens_aereas.runtimeconfig.json
+C:\Users\38985141880\Desktop\passagens_aereas\bin\Debug\net7.0\passagens_aereas.dll
+C:\Users\38985141880\Desktop\passagens_aereas\bin\Debug\net7.0\passagens_aereas.pdb
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.dll
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\refint\passagens_aereas.dll
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.pdb
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\passagens_aereas.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\passagens_aereas\obj\Debug\net7.0\ref\passagens_aereas.dll
